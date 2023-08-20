@@ -4,5 +4,5 @@ Highly passionate and dedicated Web Development, interested in creating engaging
 
 - 🔭 I’m currently studying at <a href="https://unej.ac.id/">Jember University</a>
 - 🌱 I’m currently learning about Front-End and Back-End for web development
-- 💬 Feel free to ask me about web development or JavaScript
+- 🌸 Pretty Average at Tailwind and Laravel
 - ⚡ Fun fact: No fun fact
