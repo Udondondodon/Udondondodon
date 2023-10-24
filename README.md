@@ -1,8 +1,7 @@
-### Hi! 👋 I'm Udin.
+### Hi! 👋 I'm Moh. Syihabuddin.
 
-Highly passionate and dedicated Web Development, interested in creating engaging and interactive experiences. I am deeply enthusiastic about learning and mastering coding languages and frameworks. I am eager to contribute my skills and collaborate with a dynamic team to create captivating web experiences.
+You can call me Udin, I want to be a master at Web Development
 
 - 🔭 I’m currently studying at <a href="https://unej.ac.id/">Jember University</a>
 - 🌱 I’m currently learning about Front-End and Back-End for web development
-- 🌸 Pretty Average at Tailwind and Laravel
-- ⚡ Fun fact: No fun fact
+- ⚡ Cool Lightning. Keris petir ⚡⚡⚡
